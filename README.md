@@ -1,5 +1,6 @@
 # ChonkDock
-My WIP dock design for MadMax Toolchangers in a Voron 2.4  
+My WIP dock design for MadMax Toolchangers in a Voron 2.4
+These are based on the F-Dock by @Ultameciia: https://github.com/Ultameciia/F-Dock
 
 
 
