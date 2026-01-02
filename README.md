@@ -1,5 +1,6 @@
 # ChonkDock
-My WIP dock design for MadMax Toolchangers in a Voron 2.4  
+My WIP dock design for MadMax Toolchangers in a Voron 2.4
+These are based on the F-Dock by @Ultameciia: https://github.com/Ultameciia/F-Dock
 
 
 
@@ -8,9 +9,9 @@ They are chonky, an earlier version printed out of PLA was really stable, but we
 Each assembly can hold 2 Toolheads
 
   
-BOM: WIP, I need to figuere out proper screw lengths. 
-     - 6 Voron spec M3 heatset inserts per dock assembly
-     - 6 6x3mm per dock assembly
+BOM: WIP, I need to figuere out proper screw lengths.   
+     - 6 Voron spec M3 heatset inserts per dock assembly  
+     - 6 6x3mm per dock assembly  
 
 
 Print settings:
